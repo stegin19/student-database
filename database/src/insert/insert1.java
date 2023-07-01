@@ -56,7 +56,6 @@ public class insert1 {
 		
 		}while(choice=='y'||choice=='Y');
 		
-		sc.close();
 	}
 	
 }
