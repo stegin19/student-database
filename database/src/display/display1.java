@@ -42,7 +42,7 @@ public class display1 {
 		
 		}while(choice=='y'||choice=='Y');
 			
-  sc.close();
+  
    
 }
 }
